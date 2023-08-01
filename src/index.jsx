@@ -21,7 +21,7 @@ const App = () => {
       <Text>
         Number of comments on this issue: {comments.length}
       </Text>
-      <Text>Hello world!test push</Text>
+      <Text>Hello world!test push test</Text>
     </Fragment>
   );
 };
